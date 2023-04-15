@@ -12,7 +12,7 @@ The `<picture>` HTML element contains alternative versions of an image for diffe
 (
   <Image src="/foo.png" alt="foo" />
 )
-// equivalents to
+// is equivalent to
 (
   <picture>
     <source srcSet="/api/foo.webp" type="image/foo.webp" />
